@@ -2,7 +2,7 @@
 ## Kodilla
 ### 4.2 - HashSet Orders
 
-** Zadanie: Zduplikowane zamówienia **
+**Zadanie: Zduplikowane zamówienia**
 Tym razem, w ramach zadania utrwalającego wiedzę, zajmiemy się rozwiązaniem istotnego problemu.
 
 Wyobraź sobie sytuację, w której okazuje się, że kod napisany przez dewelopera z innej firmy przechowuje zduplikowane wartości dotyczące zamówień w sklepie internetowym. Przez to wysyłane są czasem 2 produkty zamiast 1.
